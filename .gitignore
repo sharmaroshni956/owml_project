@@ -1,0 +1,9 @@
+# Ignore datasets and output
+data/
+output/
+
+# Ignore system and VSCode files
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+.vscode/
