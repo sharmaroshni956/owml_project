@@ -8,3 +8,7 @@ __pycache__/
 .ipynb_checkpoints/
 .vscode/
 
+owml/lib/
+data/
+output/
+owml/lib/
